@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppMenuMakanan</string>
+    <string-array name="category_array">
+        <item>All</item>
+        <item>Udon</item>
+        <item>Rice</item>
+        <item>Kids Menu</item>
+        <item>Tempura</item>
+        <item>Bento Box</item>
+        <item>Drinks</item>
+        <item>Extra Order</item>
+        <item>Dessert</item>
+    </string-array>
+</resources>
